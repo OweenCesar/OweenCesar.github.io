@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on OweenCesar</title>
+    <link>https://OweenCesar.github.io/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on OweenCesar</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://OweenCesar.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding AI: What It Is and What It Is Not</title>
+      <link>https://OweenCesar.github.io/posts/whatisai/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://OweenCesar.github.io/posts/whatisai/</guid>
+      <description>&lt;p&gt;Artificial Intelligence (AI) has rapidly evolved to become one of the most transformative technologies of our time. It influences various sectors, from healthcare to finance, yet misconceptions about what AI is and what it is not are widespread. Understanding AI requires distinguishing between its capabilities and limitations to navigate its implications in our daily lives.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-ai-is&#34;&gt;&#xA;  What AI Is&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#what-ai-is&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Machine Learning and Data Processing&lt;/strong&gt;: At its core, AI encompasses algorithms that enable machines to learn from data and improve their performance over time. This branch of AI, known as machine learning, involves training models on large datasets to recognize patterns and make predictions. For instance, recommendation systems on platforms like Netflix and Amazon analyze user behavior to suggest movies or products based on previous interactions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
