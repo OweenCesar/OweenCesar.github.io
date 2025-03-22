@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSS on My New Hugo Site</title>
+    <link>https://OweenCesar.github.io/tags/css/</link>
+    <description>Recent content in CSS on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Feb 2025 12:41:05 -0500</lastBuildDate>
+    <atom:link href="https://OweenCesar.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prini Chatbot</title>
+      <link>https://OweenCesar.github.io/projects/creations/prini/</link>
+      <pubDate>Tue, 11 Feb 2025 12:41:05 -0500</pubDate>
+      <guid>https://OweenCesar.github.io/projects/creations/prini/</guid>
+      <description>&lt;p&gt;Prini Bot 🤖 – University Services Chatbot&lt;/p&gt;&#xA;&lt;p&gt;🚀 A First Step into Team Development:&lt;/p&gt;&#xA;&lt;p&gt;During my second-semester Internet Technologies course, I worked with a team to develop Prini, a chatbot designed to assist university students with essential services. This was my first experience working on a real project with a team, and it was full of trial and error—but that’s exactly what made it so valuable.&lt;/p&gt;&#xA;&lt;p&gt;✨ What Prini Does:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

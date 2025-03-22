@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial Intelligence on My New Hugo Site</title>
+    <link>https://OweenCesar.github.io/tags/artificial-intelligence/</link>
+    <description>Recent content in Artificial Intelligence on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://OweenCesar.github.io/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Online certificates</title>
+      <link>https://OweenCesar.github.io/publications/coursera/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://OweenCesar.github.io/publications/coursera/</guid>
+      <description>&lt;p&gt;Always curious and eager to grow, I took online courses to level up my coding skills and dive deeper into machine learning and AI. These courses weren’t just about theory—I got hands-on experience, explored real-world applications, and kept pushing my limits. 🚀&lt;/p&gt;&#xA;&lt;p&gt;Thanks to the &lt;strong&gt;Supervised Machine Learning: Regression and Classification&lt;/strong&gt; course, I gained a solid understanding of the key parameters in regression models and the significance of functions like the sigmoid and logistic functions in various applications. While I wished for a more math-heavy approach, I was ultimately satisfied—walking away with both the theoretical insights and the mathematical foundations behind these models.🚀&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

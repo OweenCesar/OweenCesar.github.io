@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on My New Hugo Site</title>
+    <link>https://OweenCesar.github.io/</link>
+    <description>Recent content in Home on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://OweenCesar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcoming exchange students from over 100 countries at the TH Deggendorf</title>
+      <link>https://OweenCesar.github.io/publications/exchange/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://OweenCesar.github.io/publications/exchange/</guid>
+      <description>&lt;p&gt;Every year, the Deggendorf Institute of Technology welcomes international exchange students who, just like I did in my first semester, arrive eager to explore a new country.&lt;/p&gt;&#xA;&lt;p&gt;Together, we made their first week at the university unforgettable—full of new experiences, friendships, and a warm welcome to their journey ahead.&lt;/p&gt;&#xA;&lt;p&gt;I was their first contact in the city of many of them, and I loved welcoming them—from picking them up at the station to helping them settle into their dorms. Exploring a new place in the middle of winter can feel a bit daunting, but I made sure they felt at home right away. ❄️✨&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Languages</title>
+      <link>https://OweenCesar.github.io/publications/languages/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://OweenCesar.github.io/publications/languages/</guid>
+      <description>&lt;p&gt;Since I was a kid, I&amp;rsquo;ve always been fascinated by different cultures and societies. I’ve always thought that learning a language is the closest thing to traveling the world without moving. 🌍✈️ Besides Spanish, I speak English, Turkish, German, and a bit of Portuguese!&lt;/p&gt;&#xA;&lt;h3 id=&#34;-german&#34;&gt;🇩🇪 German&lt;/h3&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been living in &lt;strong&gt;Germany&lt;/strong&gt; for more than two years, and learning &lt;strong&gt;German&lt;/strong&gt; has been my biggest challenge so far. It’s unlike any language I’ve learned before—&lt;strong&gt;complex grammar, tricky pronunciation&lt;/strong&gt;, and oh… the &lt;strong&gt;dialects!&lt;/strong&gt; Probably the most difficult (and fascinating) part for me. 😆&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Online certificates</title>
+      <link>https://OweenCesar.github.io/publications/coursera/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://OweenCesar.github.io/publications/coursera/</guid>
+      <description>&lt;p&gt;Always curious and eager to grow, I took online courses to level up my coding skills and dive deeper into machine learning and AI. These courses weren’t just about theory—I got hands-on experience, explored real-world applications, and kept pushing my limits. 🚀&lt;/p&gt;&#xA;&lt;p&gt;Thanks to the &lt;strong&gt;Supervised Machine Learning: Regression and Classification&lt;/strong&gt; course, I gained a solid understanding of the key parameters in regression models and the significance of functions like the sigmoid and logistic functions in various applications. While I wished for a more math-heavy approach, I was ultimately satisfied—walking away with both the theoretical insights and the mathematical foundations behind these models.🚀&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prepare your data with  PreproX: Smart Data Preparation</title>
+      <link>https://OweenCesar.github.io/projects/creations/pre-prox/</link>
+      <pubDate>Tue, 11 Feb 2025 12:41:05 -0500</pubDate>
+      <guid>https://OweenCesar.github.io/projects/creations/pre-prox/</guid>
+      <description>&lt;p&gt;🌐 Welcome to PreproX!&lt;/p&gt;&#xA;&lt;p&gt;In an effort to optimize my time during busy university days, I developed this web app as a time-saving solution for my machine learning projects. It &lt;em&gt;streamlines the data preprocessing phase&lt;/em&gt; by providing an intuitive&#xA;and user-friendly interface, allowing users to select the necessary transformations effortlessly. The final output is a clean, well-structured dataset, ready for machine learning models.&lt;/p&gt;&#xA;&lt;p&gt;Our website, developed using Render, is accessible at &lt;a href=&#34;https://preprox.onrender.com/&#34;&gt;https://preprox.onrender.com/&lt;/a&gt;. Upon visiting, you&amp;rsquo;ll be greeted with the following interface.&#xA;The interface is designed for a smooth and intuitive user experience:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prini Chatbot</title>
+      <link>https://OweenCesar.github.io/projects/creations/prini/</link>
+      <pubDate>Tue, 11 Feb 2025 12:41:05 -0500</pubDate>
+      <guid>https://OweenCesar.github.io/projects/creations/prini/</guid>
+      <description>&lt;p&gt;Prini Bot 🤖 – University Services Chatbot&lt;/p&gt;&#xA;&lt;p&gt;🚀 A First Step into Team Development:&lt;/p&gt;&#xA;&lt;p&gt;During my second-semester Internet Technologies course, I worked with a team to develop Prini, a chatbot designed to assist university students with essential services. This was my first experience working on a real project with a team, and it was full of trial and error—but that’s exactly what made it so valuable.&lt;/p&gt;&#xA;&lt;p&gt;✨ What Prini Does:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SmartLoan: Predict your Loan Approval Likelihood</title>
+      <link>https://OweenCesar.github.io/projects/creations/smartloan/</link>
+      <pubDate>Tue, 11 Feb 2025 12:41:05 -0500</pubDate>
+      <guid>https://OweenCesar.github.io/projects/creations/smartloan/</guid>
+      <description>&lt;p&gt;Welcome to &lt;strong&gt;SmartLoan&lt;/strong&gt;, a project designed to predict loan approval outcomes using advanced machine learning techniques.&lt;/p&gt;&#xA;&lt;p&gt;Developed as part of the Assistance Systems course in the third semester of the Bachelor of Artificial Intelligence program, this project aims to simulate a real-world financial assistance system that assesses loan applications based on a variety of personal and financial attributes.&lt;/p&gt;&#xA;&lt;p&gt;With the growing demand for automated decision-making in the banking sector, the need for predictive models that can accurately assess loan risk has never been higher. SmartLoan leverages a combination of regression algorithms to estimate the likelihood of a loan being approved, based on factors such as income, credit score, and asset value.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
